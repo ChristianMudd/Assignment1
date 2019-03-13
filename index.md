@@ -1,4 +1,4 @@
-**Personal Information**
+#**Personal Information**#
 
 Name: Christian Mudd
 
@@ -8,7 +8,7 @@ Email Address: christian@hubtax.com.au
 
 Background: I am an IT Professional in the process of changing careers away from IT towards accounting and finance. My career in IT spanned nearly 20 years and involved starting 2 companies.
 
-**Interest in IT**
+#**Interest in IT**#
 
 •	I think have always had an interest in IT, or at least from a very young age. My father collected a magazine series for me called “The Home Computer Course” (once collected you bound them all together into a 2-part encyclopedia) when I was barely at high school. Each magazine covered various aspects of IT including the application of computers to business, science, medicine, programming, hardware and software as well as computing history and a look into IT’s future. So from a young age I had a solid grip on many aspects of IT. I have always considered IT to be a tool not a career path, until one day I find myself at the end of what has been a solid career.
  
@@ -16,7 +16,7 @@ Background: I am an IT Professional in the process of changing careers away from
 
 •	I expect that in the course of doing my studies at RMIT I will learn what it means to be a financial planner and gain the knowledge and confidence to create financial advice in the Australian market.
 
-**Ideal Job**
+#**Ideal Job**#
 
 •	I have completed this exercise as if I were to aim to remain in the IT industry, I think it helps the purpose of this assignment. Here is a [link](https://www.seek.com.au/job/38533540?searchrequesttoken=f719bbea-47e4-4f01-8706-645afeb96f29&type=standout) to my ideal job, somewhat aspirational. Here is a [screenshot](https://christianmudd.github.io/Assignment1/screenshot.png). 
 
@@ -28,7 +28,7 @@ Background: I am an IT Professional in the process of changing careers away from
 
 •	I need some more experience at coding, as my previous roles did not require much in the way of coding or management of coding teams. I would begin to build the experience necessary by taking on small project work as a subcontractor and build the necessary experience gradually.
 
-**Personal Profile**
+#**Personal Profile**#
 
 1.	 Myers-Briggs Style Test Results
 
@@ -109,7 +109,7 @@ In a team I would be diplomatic but assertive and respectful of others opinions 
 
 When forming a team I think looking through personality test results of your fellow team members is an excellent way to get to know one another. The team building and execution process theory of forming, storming, norming then performing –having this information available up front would most likely accelerate the forming and storming stages so that norming and performing can happen sooner and the group function with efficiency at an earlier stage. 
 
-**Project Idea**
+#**Project Idea**#
 
 **Overview**
 
