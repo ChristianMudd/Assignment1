@@ -18,7 +18,8 @@ Interest in IT
 
 Ideal Job
 
-•	I have completed this exercise as if I were to aim to remain in the IT industry, I think it helps the purpose of this assignment. Here is a link to my ideal job, somewhat aspirational. Here is a [screenshot](https://christianmudd.github.io/Assignment1/screenshot.png). 
+•	I have completed this exercise as if I were to aim to remain in the IT industry, I think it helps the purpose of this assignment. Here is a [link] (https://www.seek.com.au/job/38533540?searchrequesttoken=f719bbea-47e4-4f01-8706-645afeb96f29&type=standout) to my ideal job, somewhat aspirational. Here is a [screenshot](https://christianmudd.github.io/Assignment1/screenshot.png). 
+
 •	The job is to oversee and direct digital and technology solutions across the business. It has fintech and property tech aspects as well as management of coding teams. What attracted me to this job is the challenge of working on the cutting edge of property, finance and technology. 
 
 •	The following skills and experience would be required for this job. Project Management experience and skill with experience managing a diverse team. Coding experience and competence with a coding language and written code to the level of being able to deliver on a product roadmap. People skills to be able to cultivate relationships with leaders in the business for the success of the operation as a whole. Ability to identify new and emerging technologies, including industry trends, and be a champion for the business in its understanding and awareness of these technologies and their benefits to the business. Management and leadership skill to lead the head developer external to the business. Understanding of financial systems and processes at strategic level.
