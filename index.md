@@ -32,7 +32,7 @@ Personal Profile
 
 1.	 Myers-Briggs Style Test Results
 
-16 Personalities Myers-Briggs Style Test
+[16 Personalities Myers-Briggs Style Test](https://www.16personalities.com/free-personality-test)
 
 Personality type: “The Campaigner” (ENFP-A)
 
@@ -49,7 +49,8 @@ Strategy: People Mastery
 
 2.	Learning Style Test Results
 
-Education Planner Learning Style Test
+[Education Planner Learning Style Test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
+
 Christian Mudd's scores:
 Auditory: 80%
 Visual: 0%
@@ -73,7 +74,7 @@ Study new material by reading it out loud.
 
 3.	Emotional Intelligence Style Test Results
 
-Global Leadership Emotional Intelligence Test Results 
+[Global Leadership Emotional Intelligence Test Results](https://globalleadershipfoundation.com/geit/eitest.html)
 
 Self-Awareness	8
 
