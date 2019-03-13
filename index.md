@@ -18,7 +18,7 @@ Interest in IT
 
 Ideal Job
 
-•	I have completed this exercise as if I were to aim to remain in the IT industry, I think it helps the purpose of this assignment. Here is a [link] (https://www.seek.com.au/job/38533540?searchrequesttoken=f719bbea-47e4-4f01-8706-645afeb96f29&type=standout) to my ideal job, somewhat aspirational. Here is a [screenshot](https://christianmudd.github.io/Assignment1/screenshot.png). 
+•	I have completed this exercise as if I were to aim to remain in the IT industry, I think it helps the purpose of this assignment. Here is a [link](https://www.seek.com.au/job/38533540?searchrequesttoken=f719bbea-47e4-4f01-8706-645afeb96f29&type=standout) to my ideal job, somewhat aspirational. Here is a [screenshot](https://christianmudd.github.io/Assignment1/screenshot.png). 
 
 •	The job is to oversee and direct digital and technology solutions across the business. It has fintech and property tech aspects as well as management of coding teams. What attracted me to this job is the challenge of working on the cutting edge of property, finance and technology. 
 
