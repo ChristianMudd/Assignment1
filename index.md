@@ -125,7 +125,7 @@ The first thing that the user notices when they open this app (working title 'Sa
 
 **Tools and Technologies**
 
-Tools required to develop this app across both Android and IOS would be presumably something along the lines of PhoneGap, which is a system to build hybrid cross-platform mobile apps using HTML, CSS and JavaScript. We would also need access to banking APIs as well as very strong encryption APIs so that no banking passwords can ever be phished. Another option for developing the app might be Xamarin whereby we could use C# to build a mobile app that we can deploy natively to Android, iOS and Windows (although not sure that the Windows platform has enough users to worry about).
+Tools required to develop this app across both Android and IOS would be presumably something along the lines of [PhoneGap](https://phonegap.com/), which is a system to build hybrid cross-platform mobile apps using HTML, CSS and JavaScript. We would also need access to banking APIs as well as very strong encryption APIs so that no banking passwords can ever be phished. Another option for developing the app might be [Xamarin](https://visualstudio.microsoft.com/xamarin/) whereby we could use C# to build a mobile app that we can deploy natively to Android, iOS and Windows (although not sure that the Windows platform has enough users to worry about).
 
 **Skills Required**
 
