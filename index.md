@@ -6,7 +6,7 @@ Student Number: S3791190
 
 Email Address: christian@hubtax.com.au 
 
-Background: I am an IT Professional in the process of changing careers away from IT towards accounting and finance. My career in IT spanned nearly 20 years and involved starting 2 companies. More on this below.
+Background: I am an IT Professional in the process of changing careers away from IT towards accounting and finance. My career in IT spanned nearly 20 years and involved starting 2 companies.
 
 Interest in IT
 
